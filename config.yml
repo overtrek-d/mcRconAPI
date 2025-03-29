@@ -1,0 +1,5 @@
+RconHost: "127.0.0.1"
+RconPort: 25575
+RconPassword: "password"
+APIPort: 40401
+password: ""
