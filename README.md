@@ -1,0 +1,2 @@
+# mcRconAPI
+HTTP RCON API
